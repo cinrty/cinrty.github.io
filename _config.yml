@@ -65,10 +65,13 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: next
 
+## 头像
+avatar: http://upload.jianshu.io/users/upload_avatars/3606282/55a0d847-c8b2-43aa-9bc6-af2f0a681704.png?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/300
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
   #repository: https://github.com/lplayi/lplayi.github.io.git
   repository: https://github.com/cinrty/cinrty.github.io.git
-avatar: http://upload.jianshu.io/users/upload_avatars/3606282/55a0d847-c8b2-43aa-9bc6-af2f0a681704.png?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/300
+  branch: master
